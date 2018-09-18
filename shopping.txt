@@ -6,14 +6,6 @@ bacon
 orange juice
 grapes
 lemons
-limes
-lettuce
-brown rice
-chicken soup
-ice cream
-1 box of sugar
-flour
-butter
-coffee
+li
 tomatoes
 pears
